@@ -2,6 +2,15 @@
 
 A Flutter Notes app
 
+# iOS
+https://user-images.githubusercontent.com/5850095/118385930-fab38600-b645-11eb-87dc-9bfe324e3b41.mp4
+
+# Android
+
+https://user-images.githubusercontent.com/5850095/118386066-2aaf5900-b647-11eb-9c07-f9c7277312fc.mp4
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

@@ -3,18 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:photos_app/note_detail.dart';
 import 'package:provider/provider.dart';
 
-// void main() {
-//   runApp(ChangeNotifierProvider(
-//     create: (context) => Data(),
-//     child: MaterialApp(
-//       routes: {NoteDetail.routeName: (context) => NoteDetail()},
-//       title: "Notes App",
-//       home: NotesDirectory(),
-//       debugShowCheckedModeBanner: false,
-//     ),
-//   ));
-// }
-
 class NotesDirectory extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

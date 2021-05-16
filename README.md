@@ -1,6 +1,6 @@
-# photos_app
+# Notes app
 
-A Flutter Photo app
+A Flutter Notes app
 
 ## Getting Started
 

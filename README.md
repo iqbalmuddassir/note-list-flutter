@@ -2,12 +2,18 @@
 
 A Flutter Notes app
 
-# iOS
-https://user-images.githubusercontent.com/5850095/118385930-fab38600-b645-11eb-87dc-9bfe324e3b41.mp4
+### Sample videos
 
-# Android
-
-https://user-images.githubusercontent.com/5850095/118386066-2aaf5900-b647-11eb-9c07-f9c7277312fc.mp4
+<table>
+  <tr>
+    <td><b>iOS Sample</></td>
+     <td><b>Android Sample</></td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/5850095/118385930-fab38600-b645-11eb-87dc-9bfe324e3b41.mp4" width=480></td>
+    <td><img src="https://user-images.githubusercontent.com/5850095/118386066-2aaf5900-b647-11eb-9c07-f9c7277312fc.mp4" width=480></td>
+  </tr>
+ </table>
 
 
 
